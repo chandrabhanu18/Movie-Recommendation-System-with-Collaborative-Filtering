@@ -76,6 +76,9 @@ Dataset used: MovieLens 100K
 -   Recall@10
 
 ------------------------------------------------------------------------
+## Cold-start Strategy
+
+For new users with no history, system recommends most popular movies using weighted popularity score.
 
 ## Installation (Local)
 
