@@ -143,7 +143,8 @@ Top recommendations:
 
 ## Author
 
-Chandra Mandalapu
+Chandra Mandiga
+
 
 ------------------------------------------------------------------------
 
