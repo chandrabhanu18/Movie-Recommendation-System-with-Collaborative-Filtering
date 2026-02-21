@@ -1,0 +1,15 @@
+
+services:
+
+  recommender:
+
+    build: .
+
+    container_name: movie-recommender
+
+    volumes:
+      - .:/app
+
+    working_dir: /app
+
+    command: python main.py
